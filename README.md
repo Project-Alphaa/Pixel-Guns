@@ -4,6 +4,6 @@ Pixel Guns Mod is a thrilling weapon mod offering nine customizable firearms. Un
 
 Contributors
 
-- Elidhan
-- Sky
-- Qboi
+- Elidhan ( Former Author )
+- Sky ( Dev )
+- Qboi ( Dev)
