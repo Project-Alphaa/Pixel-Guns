@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "pixel_guns:item/pistol_light_standby",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-8.9675, 7.85, 5]
+		}
+	}
+}

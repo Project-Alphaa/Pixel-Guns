@@ -1,0 +1,35 @@
+{
+  "parent": "pixel_guns:item/assaultrifle_light_standby",
+  "overrides":
+  [
+    {"predicate":  {"pixel_guns:sprinting": 1},"model": "pixel_guns:item/gun_sprint/assaultrifle_light"},
+    {"predicate":  {"pixel_guns:aiming": 1},"model": "pixel_guns:item/gun_aim/assaultrifle_light"},
+
+    {"predicate":  {"pixel_guns:aiming": 0,"pixel_guns:cooldown_tick": 0.5},"model": "pixel_guns:item/gun_fire/hip/assaultrifle_light/2"},
+    {"predicate":  {"pixel_guns:aiming": 0,"pixel_guns:cooldown_tick": 1},"model": "pixel_guns:item/gun_fire/hip/assaultrifle_light/1"},
+    {"predicate":  {"pixel_guns:aiming": 1,"pixel_guns:cooldown_tick": 0.5},"model": "pixel_guns:item/gun_fire/aim/assaultrifle_light/2"},
+    {"predicate":  {"pixel_guns:aiming": 1,"pixel_guns:cooldown_tick": 1},"model": "pixel_guns:item/gun_fire/aim/assaultrifle_light/1"},
+
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.01},"model": "pixel_guns:item/gun_rld/assaultrifle_light/1"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.015},"model": "pixel_guns:item/gun_rld/assaultrifle_light/2"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.02},"model": "pixel_guns:item/gun_rld/assaultrifle_light/3"},
+
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.035},"model": "pixel_guns:item/gun_rld/assaultrifle_light/4"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.04},"model": "pixel_guns:item/gun_rld/assaultrifle_light/5"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.045},"model": "pixel_guns:item/gun_rld/assaultrifle_light/6"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.05},"model": "pixel_guns:item/gun_rld/assaultrifle_light/7"},
+
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.1},"model": "pixel_guns:item/gun_rld/assaultrifle_light/8"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.105},"model": "pixel_guns:item/gun_rld/assaultrifle_light/9"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.11},"model": "pixel_guns:item/gun_rld/assaultrifle_light/10"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.155},"model": "pixel_guns:item/gun_rld/assaultrifle_light/11"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.16},"model": "pixel_guns:item/gun_rld/assaultrifle_light/12"},
+
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.195},"model": "pixel_guns:item/gun_rld/assaultrifle_light/13"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.2},"model": "pixel_guns:item/gun_rld/assaultrifle_light/12"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.205},"model": "pixel_guns:item/gun_rld/assaultrifle_light/14"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.21},"model": "pixel_guns:item/gun_rld/assaultrifle_light/15"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.215},"model": "pixel_guns:item/gun_rld/assaultrifle_light/16"},
+    {"predicate":  {"pixel_guns:loading": 1,"pixel_guns:load_tick": 0.22},"model": "pixel_guns:item/gun_rld/assaultrifle_light/17"}
+  ]
+}

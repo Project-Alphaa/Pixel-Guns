@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "pixel_guns:item/sniper_rifle_standby",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-8.9675, 6.275, 9.25],
+			"scale": [1, 1, 0.25]
+		}
+	}
+}

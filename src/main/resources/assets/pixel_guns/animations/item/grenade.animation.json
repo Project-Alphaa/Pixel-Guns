@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"pull_pin": {
+			"animation_length": 0.5833,
+			"bones": {
+				"bone2": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.5833": [0, 0, -180]
+					},
+					"position": {
+						"0.0": [0, 0, 0],
+						"0.25": [0, 1, 0],
+						"0.4167": [-3, 1, -2],
+						"0.5417": [-3, -8, -2]
+					},
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.5417": [1, 1, 1],
+						"0.5833": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"grenade.entity": {
+			"loop": true,
+			"animation_length": 0.5,
+			"bones": {
+				"bone2": {
+					"scale": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

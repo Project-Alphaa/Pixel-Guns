@@ -1,0 +1,9 @@
+{
+	"parent": "pixel_guns:item/gun_fire/hip/combat_shotgun/5",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [2, 0, 0],
+			"translation": [-8.9675, 6.975, 7.5]
+		}
+	}
+}

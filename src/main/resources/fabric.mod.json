@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "pixel_guns",
+  "version": "${version}",
+  "name": "Pixel Guns",
+  "description": "Is your generic gun mod not good enough? We may have one for you!",
+  "authors": [
+    "Qboi123",
+    "DrAlpha",
+    "Dr. Random",
+    "Skylandia",
+    "Jab125",
+    "MincraftEinstein"
+  ],
+  "contact": {
+    "sources": "https://github.com/Ultreon/pixel-guns"
+  },
+  "license": "MIT",
+  "icon": "assets/pixel_guns/icon.png",
+  "environment": "*",
+  "accessWidener": "pixel_guns.accesswidener",
+  "entrypoints": {
+    "main": [
+      "com.ultreon.mods.pixelguns.PixelGuns"
+    ],
+    "client": [
+      "com.ultreon.mods.pixelguns.PixelGunsClient"
+    ],
+    "fabric-datagen": [
+      "com.ultreon.mods.pixelguns.data.DataGeneration"
+    ],
+    "modmenu": [ "com.ultreon.mods.pixelguns.config.ModMenuEntry" ]
+  },
+  "mixins": [
+    "pixel_guns.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "=1.19.3",
+    "java": ">=17",
+    "geckolib": ">=4.0.0",
+    "modmenu": ">=5.0.0"
+  },
+  "suggests": {
+  }
+}

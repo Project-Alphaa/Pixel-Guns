@@ -1,0 +1,9 @@
+{
+	"parent": "pixel_guns:item/gun_fire/hip/revolver/5",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [24, 0, 0],
+			"translation": [-8.9675, 7.95, 7.25]
+		}
+	}
+}

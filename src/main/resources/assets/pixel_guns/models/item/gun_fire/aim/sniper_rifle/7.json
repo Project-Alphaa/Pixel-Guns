@@ -1,0 +1,9 @@
+{
+	"parent": "pixel_guns:item/gun_fire/hip/sniper_rifle/7",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-8.9675, 6.275, 9.25],
+			"scale": [1, 1, 0.25]
+		}
+	}
+}

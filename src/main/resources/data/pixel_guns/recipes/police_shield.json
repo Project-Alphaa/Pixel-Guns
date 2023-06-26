@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bgb",
+    "bib",
+    "bbb"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:black_concrete"
+    },
+    "g": {
+      "item": "minecraft:glass_pane"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "pixel_guns:police_shield"
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"blink": {
+			"animation_length": 0.33333,
+			"bones": {
+				"right_eye": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.1667": {
+							"vector": [0.2, 0.2, 0.2]
+						},
+						"0.3333": {
+							"vector": [1, 1, 1]
+						}
+					}
+				},
+				"left_eye": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.1667": {
+							"vector": [0.2, 0.2, 0.2]
+						},
+						"0.3333": {
+							"vector": [1, 1, 1],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,8 @@
+accessWidener v2 named
+accessible field net/minecraft/client/render/GameRenderer ticks I
+accessible class net/minecraft/client/option/GameOptions$Visitor
+accessible method net/minecraft/client/render/block/entity/BeaconBlockEntityRenderer renderBeam (Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;FJII[F)V
+accessible method net/minecraft/client/gui/widget/ButtonWidget <init> (IIIILnet/minecraft/text/Text;Lnet/minecraft/client/gui/widget/ButtonWidget$PressAction;Lnet/minecraft/client/gui/widget/ButtonWidget$NarrationSupplier;)V
+accessible method net/minecraft/world/World getDestructionType (Lnet/minecraft/world/GameRules$Key;)Lnet/minecraft/world/explosion/Explosion$DestructionType;
+accessible method net/minecraft/block/TargetBlock trigger (Lnet/minecraft/world/WorldAccess;Lnet/minecraft/block/BlockState;Lnet/minecraft/util/hit/BlockHitResult;Lnet/minecraft/entity/Entity;)I
+accessible method net/minecraft/block/TallPlantBlock onBreakInCreative (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;Lnet/minecraft/entity/player/PlayerEntity;)V

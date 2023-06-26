@@ -1,0 +1,64 @@
+{
+	"category.pixel_guns.binds" : "Pixel Guns",
+	"key.pixel_guns.reload" : "Reload",
+
+	"itemGroup.pixel_guns.misc" : "PG - Miscellaneous",
+	"itemGroup.pixel_guns.guns" : "PG - Weapons",
+
+	"item.pixel_guns.specialised_grip" : "Specialised Grip",
+	"item.pixel_guns.heavy_stock" : "Heavy Stock",
+	"item.pixel_guns.short_scope" : "Short Scope",
+	"item.pixel_guns.medium_scope" : "Medium Scope",
+	"item.pixel_guns.long_scope" : "Long Scope",
+
+	"item.pixel_guns.shotgun_shell" : "Shotgun Shell",
+	"item.pixel_guns.light_bullets" : "Light Bullets",
+	"item.pixel_guns.medium_bullets" : "Medium Bullets",
+	"item.pixel_guns.heavy_bullets" : "Heavy Bullets",
+	"item.pixel_guns.rocket" : "Rockets",
+	"item.pixel_guns.energy_battery" : "Energy Battery",
+
+	"item.pixel_guns.gun.ammo_type": "Ammo Type:",
+	"item.pixel_guns.gun.damage": "Damage:",
+	"item.pixel_guns.gun.ammo": "Ammo:",
+	"item.pixel_guns.pistol" : "Pistol",
+	"item.pixel_guns.revolver" : "Revolver",
+	"item.pixel_guns.submachine_gun" : "SMG",
+	"item.pixel_guns.light_assault_rifle" : "Light Assault Rifle",
+	"item.pixel_guns.assault_rifle" : "Assault Rifle",
+	"item.pixel_guns.combat_shotgun" : "Combat Shotgun",
+	"item.pixel_guns.sniper_rifle" : "Sniper Rifle",
+	"item.pixel_guns.rocket_launcher" : "Rocket Launcher",
+	"item.pixel_guns.infinity_gun" : "Infinity Gun",
+
+	"item.pixel_guns.armored_vest" : "Armored Vest",
+	"item.pixel_guns.green_armored_vest" : "Green Armored Vest",
+	"item.pixel_guns.police_shield" : "Police Shield",
+	"item.pixel_guns.grenade" : "Grenade",
+	"item.pixel_guns.crowbar" : "Crowbar",
+	"item.pixel_guns.katana" : "Katana",
+	"item.pixel_guns.gas_mask" : "Gas Mask",
+
+	"block.pixel_guns.workshop" : "Workshop",
+	"block.pixel_guns.lime_bottle": "Lime Bottle",
+	"block.pixel_guns.lemon_bottle": "Lemon Bottle",
+	"block.pixel_guns.orange_bottle": "Orange Bottle",
+	"block.pixel_guns.dummy": "Dummy",
+
+	"container.pixel_guns.workshop": "Workshop",
+	"container.pixel_guns.workshop.pixel_guns.guns": "Guns",
+	"container.pixel_guns.workshop.pixel_guns.ammunition": "Ammunition",
+	"container.pixel_guns.workshop.pixel_guns.attachments": "Attachments",
+
+	"gui.pixel_guns.previous_item": "Previous Item",
+	"gui.pixel_guns.next_item": "Next Item",
+	"gui.pixel_guns.assemble_item": "Assemble Item",
+	"gui.pixel_guns.assemble": "Assemble",
+
+	"attack.pixel_guns.energy_orb": "%1$s got obliterated from an Energy Orb",
+
+	"pixel_guns.midnightconfig.title": "Pixel Guns Config",
+	"pixel_guns.midnightconfig.enable_recoil": "Enable Recoil",
+	"pixel_guns.midnightconfig.ads_sensitivity": "ADS Sensitivity",
+	"pixel_guns.midnightconfig.hit_crosshair_ticks": "How long (in ticks) the custom entity shot crosshair shows"
+}
