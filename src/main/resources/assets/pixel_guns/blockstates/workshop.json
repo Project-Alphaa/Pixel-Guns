@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "pixel_guns:block/workshop", "y": 180},
-    "facing=east":  { "model": "pixel_guns:block/workshop", "y": 270},
-    "facing=south": { "model": "pixel_guns:block/workshop", "y": 0},
-    "facing=west":  { "model": "pixel_guns:block/workshop", "y": 90}
-  }
-}

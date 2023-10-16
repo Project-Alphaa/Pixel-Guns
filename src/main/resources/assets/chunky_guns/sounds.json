@@ -1,0 +1,236 @@
+{
+  "combat_shotgun_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/combat_shotgun"
+    ]
+  },
+  "pistol_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/pistol"
+    ]
+  },
+  "revolver_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/revolver"
+    ]
+  },
+  "submachine_gun_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/submachine_gun"
+    ]
+  },
+  "light_assault_rifle_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/light_assault_rifle"
+    ]
+  },
+  "assault_rifle_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/assault_rifle"
+    ]
+  },
+  "rocket_launcher_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/rocket_launcher"
+    ]
+  },
+  "infinity_gun_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/infinity_gun"
+    ]
+  },
+  "sniper_rifle_fire": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/fire/sniper_rifle"
+    ]
+  },
+  "combat_shotgun_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/combat_shotgun/1"
+    ]
+  },
+  "combat_shotgun_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/combat_shotgun/2"
+    ]
+  },
+  "combat_shotgun_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/combat_shotgun/3"
+    ]
+  },
+  "pistol_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/pistol/1"
+    ]
+  },
+  "pistol_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/pistol/2"
+    ]
+  },
+  "pistol_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/pistol/3"
+    ]
+  },
+  "revolver_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/revolver/1"
+    ]
+  },
+  "revolver_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/revolver/2"
+    ]
+  },
+  "revolver_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/revolver/3"
+    ]
+  },
+  "submachine_gun_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/submachine_gun/1"
+    ]
+  },
+  "submachine_gun_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/submachine_gun/2"
+    ]
+  },
+  "submachine_gun_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/submachine_gun/3"
+    ]
+  },
+  "light_assault_rifle_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/light_assault_rifle/1"
+    ]
+  },
+  "light_assault_rifle_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/light_assault_rifle/2"
+    ]
+  },
+  "light_assault_rifle_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/light_assault_rifle/3"
+    ]
+  },
+  "assault_rifle_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/assault_rifle/1"
+    ]
+  },
+  "assault_rifle_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/assault_rifle/2"
+    ]
+  },
+  "assault_rifle_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/assault_rifle/3"
+    ]
+  },
+  "rocket_launcher_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/rocket_launcher/1"
+    ]
+  },
+  "rocket_launcher_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/rocket_launcher/2"
+    ]
+  },
+  "rocket_launcher_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/rocket_launcher/3"
+    ]
+  },
+  "infinity_gun_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/infinity_gun/1"
+    ]
+  },
+  "infinity_gun_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/infinity_gun/2"
+    ]
+  },
+  "infinity_gun_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/infinity_gun/3"
+    ]
+  },
+  "sniper_rifle_reload_1": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/sniper_rifle/1"
+    ]
+  },
+  "sniper_rifle_reload_2": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/sniper_rifle/2"
+    ]
+  },
+  "sniper_rifle_reload_3": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:gun/reload/sniper_rifle/3"
+    ]
+  },
+  "katana_swoop": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:katana/katana_swoop_1"
+    ]
+  },
+  "katana_hit": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:katana/katana_hit_1"
+    ]
+  },
+  "grenade_explode": {
+    "category": "master",
+    "sounds": [
+      "chunky_guns:grenade_explode"
+    ]
+  }
+}

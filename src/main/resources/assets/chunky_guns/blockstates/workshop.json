@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "chunky_guns:block/workshop", "y": 180},
+    "facing=east":  { "model": "chunky_guns:block/workshop", "y": 270},
+    "facing=south": { "model": "chunky_guns:block/workshop", "y": 0},
+    "facing=west":  { "model": "chunky_guns:block/workshop", "y": 90}
+  }
+}

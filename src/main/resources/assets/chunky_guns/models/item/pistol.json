@@ -1,0 +1,35 @@
+{
+  "parent": "chunky_guns:item/pistol_light_standby",
+  "overrides":
+  [
+    {"predicate":  {"chunky_guns:sprinting": 1},"model": "chunky_guns:item/gun_sprint/pistol_light"},
+    {"predicate":  {"chunky_guns:aiming": 1},"model": "chunky_guns:item/gun_aim/pistol_light"},
+
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.25},"model": "chunky_guns:item/gun_fire/hip/pistol_light/4"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.5},"model": "chunky_guns:item/gun_fire/hip/pistol_light/3"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.75},"model": "chunky_guns:item/gun_fire/hip/pistol_light/2"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/hip/pistol_light/1"},
+
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.25},"model": "chunky_guns:item/gun_fire/aim/pistol_light/4"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.5},"model": "chunky_guns:item/gun_fire/aim/pistol_light/3"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.75},"model": "chunky_guns:item/gun_fire/aim/pistol_light/2"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/aim/pistol_light/1"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.01},"model": "chunky_guns:item/gun_rld/pistol_light/1"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.015},"model": "chunky_guns:item/gun_rld/pistol_light/2"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.02},"model": "chunky_guns:item/gun_rld/pistol_light/3"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.03},"model": "chunky_guns:item/gun_rld/pistol_light/4"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.035},"model": "chunky_guns:item/gun_rld/pistol_light/5"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.08},"model": "chunky_guns:item/gun_rld/pistol_light/6"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.085},"model": "chunky_guns:item/gun_rld/pistol_light/7"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.1},"model": "chunky_guns:item/gun_rld/pistol_light/8"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.105},"model": "chunky_guns:item/gun_rld/pistol_light/9"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.12},"model": "chunky_guns:item/gun_rld/pistol_light/10"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.125},"model": "chunky_guns:item/gun_rld/pistol_light/11"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.13},"model": "chunky_guns:item/gun_rld/pistol_light/12"}
+  ]
+}

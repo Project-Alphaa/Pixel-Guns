@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "pixel_guns:lime_bottle",
-    "pixel_guns:lemon_bottle",
-    "pixel_guns:orange_bottle"
+    "chunky_guns:lime_bottle",
+    "chunky_guns:lemon_bottle",
+    "chunky_guns:orange_bottle"
   ]
 }

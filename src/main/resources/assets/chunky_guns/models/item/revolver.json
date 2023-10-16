@@ -1,0 +1,58 @@
+{
+  "parent": "chunky_guns:item/revolver_standby",
+  "overrides":
+  [
+    {"predicate":  {"chunky_guns:sprinting": 1},"model": "chunky_guns:item/gun_sprint/revolver"},
+    {"predicate":  {"chunky_guns:aiming": 1},"model": "chunky_guns:item/gun_aim/revolver"},
+
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.2},"model": "chunky_guns:item/gun_fire/hip/revolver/8"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.3},"model": "chunky_guns:item/gun_fire/hip/revolver/7"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.4},"model": "chunky_guns:item/gun_fire/hip/revolver/6"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.5},"model": "chunky_guns:item/gun_fire/hip/revolver/5"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.6},"model": "chunky_guns:item/gun_fire/hip/revolver/4"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.7},"model": "chunky_guns:item/gun_fire/hip/revolver/3"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.9},"model": "chunky_guns:item/gun_fire/hip/revolver/2"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/hip/revolver/1"},
+
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.2},"model": "chunky_guns:item/gun_fire/aim/revolver/8"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.3},"model": "chunky_guns:item/gun_fire/aim/revolver/7"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.4},"model": "chunky_guns:item/gun_fire/aim/revolver/6"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.5},"model": "chunky_guns:item/gun_fire/aim/revolver/5"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.6},"model": "chunky_guns:item/gun_fire/aim/revolver/4"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.7},"model": "chunky_guns:item/gun_fire/aim/revolver/3"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.9},"model": "chunky_guns:item/gun_fire/aim/revolver/2"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/aim/revolver/1"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.01},"model": "chunky_guns:item/gun_rld/revolver/1"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.015},"model": "chunky_guns:item/gun_rld/revolver/2"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.02},"model": "chunky_guns:item/gun_rld/revolver/3"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.025},"model": "chunky_guns:item/gun_rld/revolver/4"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.04},"model": "chunky_guns:item/gun_rld/revolver/5"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.045},"model": "chunky_guns:item/gun_rld/revolver/6"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.06},"model": "chunky_guns:item/gun_rld/revolver/7"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.065},"model": "chunky_guns:item/gun_rld/revolver/8"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.07},"model": "chunky_guns:item/gun_rld/revolver/9"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.075},"model": "chunky_guns:item/gun_rld/revolver/10"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.095},"model": "chunky_guns:item/gun_rld/revolver/11"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.1},"model": "chunky_guns:item/gun_rld/revolver/12"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.105},"model": "chunky_guns:item/gun_rld/revolver/13"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.11},"model": "chunky_guns:item/gun_rld/revolver/14"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.115},"model": "chunky_guns:item/gun_rld/revolver/15"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.135},"model": "chunky_guns:item/gun_rld/revolver/16"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.14},"model": "chunky_guns:item/gun_rld/revolver/17"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.145},"model": "chunky_guns:item/gun_rld/revolver/18"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.15},"model": "chunky_guns:item/gun_rld/revolver/19"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.16},"model": "chunky_guns:item/gun_rld/revolver/20"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.165},"model": "chunky_guns:item/gun_rld/revolver/21"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.17},"model": "chunky_guns:item/gun_rld/revolver/22"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.175},"model": "chunky_guns:item/gun_rld/revolver/23"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.19},"model": "chunky_guns:item/gun_rld/revolver/24"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.195},"model": "chunky_guns:item/gun_rld/revolver/25"}
+  ]
+}

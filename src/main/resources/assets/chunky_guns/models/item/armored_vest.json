@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "chunky_guns:item/armored_vest"
+	}
+}

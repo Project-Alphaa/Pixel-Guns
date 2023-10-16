@@ -1,8 +1,0 @@
-{
-	"parent": "pixel_guns:item/gun_fire/hip/submachine_gun/1",
-	"display": {
-		"firstperson_righthand": {
-			"translation": [-8.9675, 7.475, 6.25]
-		}
-	}
-}

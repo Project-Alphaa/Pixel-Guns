@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "chunky_guns:item/assaultrifle_light_standby",
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-8.9675, 6, 5.5]
+		}
+	}
+}

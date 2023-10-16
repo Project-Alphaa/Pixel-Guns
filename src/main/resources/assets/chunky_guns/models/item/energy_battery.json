@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "chunky_guns:item/energy_battery"
+	},
+	"elements": [
+		{
+			"from": [7, 4.1875, 7],
+			"to": [9, 9.1875, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.1875, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 7], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 7], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 7], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 7], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.75, 9.1875, 7.75],
+			"to": [8.25, 9.4375, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.1875, 8]},
+			"faces": {
+				"north": {"uv": [1, 1, 1, 1], "texture": "#0"},
+				"east": {"uv": [1, 1, 1, 1], "texture": "#0"},
+				"south": {"uv": [1, 1, 1, 1], "texture": "#0"},
+				"west": {"uv": [1, 1, 1, 1], "texture": "#0"},
+				"up": {"uv": [1, 1, 1, 1], "texture": "#0"},
+				"down": {"uv": [1, 1, 1, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.5, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 1.5, 0]
+		},
+		"gui": {
+			"rotation": [30, 30, 0],
+			"translation": [0, 3, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 3, 1],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "glg"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:green_dye"
+    },
+    "l": {
+      "item": "minecraft:leather_helmet"
+    },
+    "g": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "chunky_guns:gas_mask"
+  }
+}

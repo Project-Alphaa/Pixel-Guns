@@ -1,0 +1,9 @@
+{
+	"parent": "chunky_guns:item/gun_fire/hip/combat_shotgun/1",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-2, 0, 0],
+			"translation": [-8.9675, 6.975, 7.25]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "chunky_guns:item/pistol_light_standby",
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-8.9675, 7.85, 5]
+		}
+	}
+}

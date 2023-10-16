@@ -1,0 +1,64 @@
+{
+	"category.chunky_guns.binds" : "Chunky Guns",
+	"key.chunky_guns.reload" : "Reload",
+
+	"itemGroup.chunky_guns.misc" : "CG - Miscellaneous",
+	"itemGroup.chunky_guns.guns" : "CG - Weapons",
+
+	"item.chunky_guns.specialised_grip" : "Specialised Grip",
+	"item.chunky_guns.heavy_stock" : "Heavy Stock",
+	"item.chunky_guns.short_scope" : "Short Scope",
+	"item.chunky_guns.medium_scope" : "Medium Scope",
+	"item.chunky_guns.long_scope" : "Long Scope",
+
+	"item.chunky_guns.shotgun_shell" : "Shotgun Shell",
+	"item.chunky_guns.light_bullets" : "Light Bullets",
+	"item.chunky_guns.medium_bullets" : "Medium Bullets",
+	"item.chunky_guns.heavy_bullets" : "Heavy Bullets",
+	"item.chunky_guns.rocket" : "Rockets",
+	"item.chunky_guns.energy_battery" : "Energy Battery",
+
+	"item.chunky_guns.gun.ammo_type": "Ammo Type:",
+	"item.chunky_guns.gun.damage": "Damage:",
+	"item.chunky_guns.gun.ammo": "Ammo:",
+	"item.chunky_guns.pistol" : "Pistol",
+	"item.chunky_guns.revolver" : "Revolver",
+	"item.chunky_guns.submachine_gun" : "SMG",
+	"item.chunky_guns.light_assault_rifle" : "Light Assault Rifle",
+	"item.chunky_guns.assault_rifle" : "Assault Rifle",
+	"item.chunky_guns.combat_shotgun" : "Combat Shotgun",
+	"item.chunky_guns.sniper_rifle" : "Sniper Rifle",
+	"item.chunky_guns.rocket_launcher" : "Rocket Launcher",
+	"item.chunky_guns.infinity_gun" : "Infinity Gun",
+
+	"item.chunky_guns.armored_vest" : "Armored Vest",
+	"item.chunky_guns.green_armored_vest" : "Green Armored Vest",
+	"item.chunky_guns.police_shield" : "Police Shield",
+	"item.chunky_guns.grenade" : "Grenade",
+	"item.chunky_guns.crowbar" : "Crowbar",
+	"item.chunky_guns.katana" : "Katana",
+	"item.chunky_guns.gas_mask" : "Gas Mask",
+
+	"block.chunky_guns.workshop" : "Workshop",
+	"block.chunky_guns.lime_bottle": "Lime Bottle",
+	"block.chunky_guns.lemon_bottle": "Lemon Bottle",
+	"block.chunky_guns.orange_bottle": "Orange Bottle",
+	"block.chunky_guns.dummy": "Dummy",
+
+	"container.chunky_guns.workshop": "Workshop",
+	"container.chunky_guns.workshop.chunky_guns.guns": "Guns",
+	"container.chunky_guns.workshop.chunky_guns.ammunition": "Ammunition",
+	"container.chunky_guns.workshop.chunky_guns.attachments": "Attachments",
+
+	"gui.chunky_guns.previous_item": "Previous Item",
+	"gui.chunky_guns.next_item": "Next Item",
+	"gui.chunky_guns.assemble_item": "Assemble Item",
+	"gui.chunky_guns.assemble": "Assemble",
+
+	"attack.chunky_guns.energy_orb": "%1$s got obliterated from an Energy Orb",
+
+	"chunky_guns.midnightconfig.title": "Chunky Guns Config",
+	"chunky_guns.midnightconfig.enable_recoil": "Enable Recoil",
+	"chunky_guns.midnightconfig.ads_sensitivity": "ADS Sensitivity",
+	"chunky_guns.midnightconfig.hit_crosshair_ticks": "How long (in ticks) the custom entity shot crosshair shows"
+}

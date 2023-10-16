@@ -1,0 +1,35 @@
+{
+  "parent": "chunky_guns:item/assaultrifle_heavy_standby",
+  "overrides":
+  [
+    {"predicate":  {"chunky_guns:sprinting": 1},"model": "chunky_guns:item/gun_sprint/assaultrifle_heavy"},
+    {"predicate":  {"chunky_guns:aiming": 1},"model": "chunky_guns:item/gun_aim/assaultrifle_heavy"},
+
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.3333333},"model": "chunky_guns:item/gun_fire/hip/assaultrifle_heavy/3"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 0.6666667},"model": "chunky_guns:item/gun_fire/hip/assaultrifle_heavy/2"},
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/hip/assaultrifle_heavy/1"},
+
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.3333333},"model": "chunky_guns:item/gun_fire/aim/assaultrifle_heavy/3"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 0.6666667},"model": "chunky_guns:item/gun_fire/aim/assaultrifle_heavy/2"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/aim/assaultrifle_heavy/1"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.010},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/1"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.015},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/2"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.020},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/3"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.035},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/4"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.040},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/5"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.045},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/6"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.050},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/7"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.110},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/8"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.115},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/9"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.120},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/10"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.165},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/11"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.170},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/12"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.205},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/13"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.210},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/12"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.225},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/14"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.230},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/15"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.235},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/16"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.240},"model": "chunky_guns:item/gun_rld/assaultrifle_heavy/17"}
+  ]
+}

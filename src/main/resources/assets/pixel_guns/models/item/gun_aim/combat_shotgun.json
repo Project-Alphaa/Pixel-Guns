@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "pixel_guns:item/combat_shotgun_standby",
-	"display": {
-		"firstperson_righthand": {
-			"translation": [-8.9675, 6.975, 7.25]
-		}
-	}
-}

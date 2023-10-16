@@ -1,0 +1,34 @@
+{
+  "parent": "chunky_guns:item/submachine_gun_standby",
+  "overrides":
+  [
+    {"predicate":  {"chunky_guns:sprinting": 1},"model": "chunky_guns:item/gun_sprint/submachine_gun"},
+    {"predicate":  {"chunky_guns:aiming": 1},"model": "chunky_guns:item/gun_aim/submachine_gun"},
+
+    {"predicate":  {"chunky_guns:aiming": 0,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/hip/submachine_gun/1"},
+    {"predicate":  {"chunky_guns:aiming": 1,"chunky_guns:cooldown_tick": 1},"model": "chunky_guns:item/gun_fire/aim/submachine_gun/1"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.01},"model": "chunky_guns:item/gun_rld/submachine_gun/1"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.015},"model": "chunky_guns:item/gun_rld/submachine_gun/2"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.02},"model": "chunky_guns:item/gun_rld/submachine_gun/3"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.025},"model": "chunky_guns:item/gun_rld/submachine_gun/4"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.03},"model": "chunky_guns:item/gun_rld/submachine_gun/5"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.035},"model": "chunky_guns:item/gun_rld/submachine_gun/6"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.085},"model": "chunky_guns:item/gun_rld/submachine_gun/5"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.09},"model": "chunky_guns:item/gun_rld/submachine_gun/4"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.095},"model": "chunky_guns:item/gun_rld/submachine_gun/3"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.125},"model": "chunky_guns:item/gun_rld/submachine_gun/7"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.13},"model": "chunky_guns:item/gun_rld/submachine_gun/8"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.135},"model": "chunky_guns:item/gun_rld/submachine_gun/9"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.15},"model": "chunky_guns:item/gun_rld/submachine_gun/10"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.155},"model": "chunky_guns:item/gun_rld/submachine_gun/11"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.18},"model": "chunky_guns:item/gun_rld/submachine_gun/9"},
+
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.21},"model": "chunky_guns:item/gun_rld/submachine_gun/12"},
+    {"predicate":  {"chunky_guns:loading": 1,"chunky_guns:load_tick": 0.215},"model": "chunky_guns:item/gun_rld/submachine_gun/13"}
+  ]
+}

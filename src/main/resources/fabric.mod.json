@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "pixel_guns",
+  "id": "chunky_guns",
   "version": "${version}",
-  "name": "Pixel Guns",
+  "name": "Chunky Guns",
   "description": "Is your generic gun mod not good enough? We may have one for you!",
   "authors": [
     "Qboi123",
@@ -16,23 +16,23 @@
     "sources": "https://github.com/Ultreon/pixel-guns"
   },
   "license": "MIT",
-  "icon": "assets/pixel_guns/icon.png",
+  "icon": "assets/chunky_guns/icon.png",
   "environment": "*",
-  "accessWidener": "pixel_guns.accesswidener",
+  "accessWidener": "chunky_guns.accesswidener",
   "entrypoints": {
     "main": [
-      "com.ultreon.mods.pixelguns.PixelGuns"
+      "com.ultreon.mods.chunkyguns.ChunkyGuns"
     ],
     "client": [
-      "com.ultreon.mods.pixelguns.PixelGunsClient"
+      "com.ultreon.mods.chunkyguns.ChunkyGunsClient"
     ],
     "fabric-datagen": [
-      "com.ultreon.mods.pixelguns.data.DataGeneration"
+      "com.ultreon.mods.chunkyguns.data.DataGeneration"
     ],
-    "modmenu": [ "com.ultreon.mods.pixelguns.config.ModMenuEntry" ]
+    "modmenu": [ "com.ultreon.mods.chunkyguns.config.ModMenuEntry" ]
   },
   "mixins": [
-    "pixel_guns.mixins.json"
+    "chunky_guns.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.13.3",

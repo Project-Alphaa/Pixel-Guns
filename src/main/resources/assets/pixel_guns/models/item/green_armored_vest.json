@@ -1,6 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "pixel_guns:item/green_armored_vest"
-	}
-}

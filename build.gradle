@@ -37,7 +37,7 @@ dependencies {
 }
 
 loom {
-    accessWidenerPath = file("src/main/resources/pixel_guns.accesswidener")
+    accessWidenerPath = file("src/main/resources/chunky_guns.accesswidener")
 
     runs {
         client {

@@ -1,8 +1,0 @@
-{
-	"parent": "pixel_guns:item/submachine_gun_standby",
-	"display": {
-		"firstperson_righthand": {
-			"translation": [-8.9675, 7.475, 6]
-		}
-	}
-}
