@@ -39,9 +39,9 @@
     "fabric": "*",
     "minecraft": "=1.19.3",
     "java": ">=17",
-    "geckolib": ">=4.0.0",
-    "modmenu": ">=5.0.0"
+    "geckolib": ">=4.0.0"
   },
   "suggests": {
+    "modmenu": ">=5.0.0"
   }
 }
