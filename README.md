@@ -22,7 +22,7 @@ Pixel Guns Mod is a thrilling weapon mod offering nine customizable firearms. Un
 ### **📚 FAQ**
 **Q:** Does this mod have any dependency?
 <br>
-**A:** Yes, this mod requires [Fabric-API](https://curseforge.com/minecraft/mc-mods/fabric-api), [GeckoLib](https://curseforge.com/minecraft/mc-mods/geckolib), [LambDynamicLights](https://curseforge.com/minecraft/mc-mods/lambdynamiclights), and [Satin-API](https://curseforge.com/minecraft/mc-mods/satin-api).
+**A:** Yes, this mod requires [Fabric-API](https://curseforge.com/minecraft/mc-mods/fabric-api) and [GeckoLib](https://curseforge.com/minecraft/mc-mods/geckolib).
 <br><br>
 **Q:** Can I use this mod in my modpack?
 <br>
