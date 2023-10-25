@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Invite-blue?style=for-the-badge&logo=discord)](https://discord.gg/the-alpha-server-852655613669277777)
 
 ### **📘 Description**
-Pixel Guns Mod is a thrilling weapon mod offering nine customizable firearms. Unleash your creativity by personalizing each weapon with attachments and enchantments to enhance their performance. Dye options allow you to change both the weapon and attachment colours. Additionally, this mod introduces grenades and stun grenades for added excitement.
+Chunky Guns Mod is a thrilling weapon mod offering nine customizable firearms. Unleash your creativity by personalizing each weapon with attachments and enchantments to enhance their performance. Dye options allow you to change both the weapon and attachment colours. Additionally, this mod introduces grenades and stun grenades for added excitement.
 
 ---
 
