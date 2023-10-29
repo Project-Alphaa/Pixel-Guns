@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Invite-blue?style=for-the-badge&logo=discord)](https://discord.gg/the-alpha-server-852655613669277777)
 
 ### **📘 Description**
-Chunky Guns Mod is a thrilling weapon mod offering nine customizable firearms. Unleash your creativity by personalizing each weapon with attachments and enchantments to enhance their performance. Dye options allow you to change both the weapon and attachment colours. Additionally, this mod introduces grenades and stun grenades for added excitement.
+Chunky Guns Mod a thrilling weapon mod allowing customizable firearms that bring your gameplay to life. Unleash your creativity by personalizing each weapon with various attachments. Use the aim test dummy to refine your accuracy and test your skills. Moreover, this mod adds grenades and bulletproof vests, elevating the excitement of your battleground experience.
 
 ---
 
