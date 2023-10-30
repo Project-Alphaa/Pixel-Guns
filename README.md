@@ -3,6 +3,7 @@
 
 ![](https://img.shields.io/badge/Mod_Loader-Fabric-green?style=for-the-badge)
 [![](https://img.shields.io/badge/Curseforge-page-orange?style=for-the-badge&logo=curseforge)](https://curseforge.com/minecraft/mc-mods/chunky-guns)
+[![](https://img.shields.io/badge/Modrinth-Page-1bd96a?style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/chunky-guns)
 [![Discord](https://img.shields.io/badge/Discord-Invite-blue?style=for-the-badge&logo=discord)](https://discord.gg/the-alpha-server-852655613669277777)
 
 ### **📘 Description**
