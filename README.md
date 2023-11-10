@@ -14,8 +14,8 @@ Chunky Guns is a thrilling weapon mod that brings your gameplay to life. Unleash
 ### **🙎‍♂️ Contributors:**
 - Elidhan (Former Author)
 - Skylandia (Author)
-- XyperCode (Author)
-- MincraftEinstein (Author)
+- XyperCode (Contributor)
+- MincraftEinstein (Contributor)
 - EagleFX1 (Contributor)
 
 ---
