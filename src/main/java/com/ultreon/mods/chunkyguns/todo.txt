@@ -17,7 +17,6 @@ Less important
 - remove redundant usages of "this"
 - retexture bullets
 - clean up gradle.properties
-- clean up build.gradle
 - redo all files so there is no "animation side"
 - fix sound related errors in log
 - PacketRegistry should static import ChunkyGuns.id
