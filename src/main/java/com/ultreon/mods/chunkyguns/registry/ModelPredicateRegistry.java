@@ -62,10 +62,10 @@ public class ModelPredicateRegistry {
             return 1.0f;
         });
         ModelPredicateProviderRegistry.register(gun, AIMING, (stack, world, entity, seed) -> {
-            if(entity.getStackInHand(Hand.MAIN_HAND) == stack)
-            if (entity != null && MinecraftClient.getInstance().options.useKey.isPressed() && GunItem.isLoaded(stack) && !entity.getStackInHand(Hand.OFF_HAND).isOf(ItemRegistry.POLICE_SHIELD)) {
-                return 1.0f;
-            }
+            if(entity != null && entity.getStackInHand(Hand.MAIN_HAND) == stack)
+                if (MinecraftClient.getInstance().options.useKey.isPressed() && GunItem.isLoaded(stack) && !entity.getStackInHand(Hand.OFF_HAND).isOf(ItemRegistry.POLICE_SHIELD)) {
+                    return 1.0f;
+                }
             return 0.0f;
         });
         ModelPredicateProviderRegistry.register(gun, com.ultreon.mods.chunkyguns.ChunkyGuns.id("sprinting"), (stack, world, entity, seed) -> {
