@@ -21,7 +21,7 @@ Chunky guns is a thrilling weapon mod that brings a playable shooting experience
 <br>
 **A:** Yes, feel free to use this mod in your modpack.
 <br><br>
-**Q:** I have an inquiry about something.
+**Q:** I have an inquiry about something. Can you help?
 <br>
 **A:** Ask away in the comments or on the Discord server, and we will do our best to respond.
 <br><br>
