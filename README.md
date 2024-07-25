@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Discord-6a6a6a?style=for-the-badge&labelColor=272727&logo=discord)](https://discord.gg/f83zBET9w5)
 
 ### **📘 Description**
-Chunky guns is a thrilling weapon mod that brings a playable shooting experience to life. Unleash your creativity by gathering recipes and crafting unique weapons in your workshop. This mod also adds grenades and bulletproof vests, elevating the excitement of your battleground experience.
+Chunky Guns is a thrilling weapons mod that brings a dynamic shooting experience to life. Unleash your creativity by gathering recipes and crafting unique weapons in your personal workshop. This mod also introduces functional grenades and bulletproof vests, enhancing the excitement of your battleground experience.
 
 ![](https://i.imgur.com/j8YAnhl.png)
 
