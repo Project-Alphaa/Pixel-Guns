@@ -32,7 +32,7 @@ If anyone would like to add the remaining features to the game, feel free to che
 
 ![](https://i.imgur.com/j8YAnhl.png)
 
-### **🙎‍♂️ Additional Credits:**
+### **🙎‍♂️ Additional Credits**
 - Elidhan (Former Author)
 - Skylandia (Author)
 - XyperCode (Contributor)
