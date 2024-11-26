@@ -1,4 +1,3 @@
-# Chunky guns 
 ![](https://github.com/Project-Alphaa/Chunky-guns/blob/main/banner.png?raw=true)
 
 ![](https://img.shields.io/badge/Mod_Loader-Fabric-6a6a6a?style=for-the-badge&labelColor=272727)
